@@ -1,7 +1,6 @@
-To decision to learn git is paying off greatly.
 My workflow has gained tremendous momentum since I started using git.
 
-I can collaborate easily with my team mates on a project irrespective
+I can easily collaborate with my team mates on a project irrespective
 of their location.
 
-I will check this off a positive direction career-wise.
+I will check this off as a positive direction career-wise.
