@@ -1,6 +1,0 @@
-My workflow has gained tremendous momentum since I started using git.
-
-I can easily collaborate with my team mates on a project irrespective
-of their location.
-
-I will check this off as a positive direction career-wise.
